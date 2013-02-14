@@ -10,13 +10,13 @@ With this plugin help you will be able include in your site Twitter feed widget 
 
 ## Usage
 
-Use it as usual widget :)
+Use it as a usual widget :)
 
 ## Copyright / License
 
 The MIT License
 
-Copyright 2013 JSC "Insightio"
+Copyright 2013 JSC "Insightio" ( http://www.insightio.lt / http://www.insightio.co.uk )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
