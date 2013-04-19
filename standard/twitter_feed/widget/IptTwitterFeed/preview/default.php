@@ -11,7 +11,7 @@
 	<?php else: ?>
 		
 		<?php if($site->managementState()): ?>
-			<h2>Can't get user "<?php echo $username; ?>" tweets. Posibly user do not exists</h2>
+			<h2>Can't access user "<?php echo $username; ?>". Please check if user exists.</h2>
 		<?php else: ?>
 			<h2>Twitter is temporarily down.</h2>
 		<?php endif; ?>
