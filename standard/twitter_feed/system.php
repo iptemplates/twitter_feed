@@ -9,9 +9,9 @@ namespace Modules\standard\twitter_feed;
 
 if (!defined('CMS')) exit;
 
-class System{
+class System {
 
-	function init(){
+	function init() {
 		global $site;
 
 		$public_dir = BASE_URL.PLUGIN_DIR.'standard/twitter_feed/public/';
